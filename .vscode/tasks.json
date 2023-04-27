@@ -9,7 +9,7 @@
 				"ToonTanks",
 				"Win64",
 				"Debug",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -26,7 +26,7 @@
 				"ToonTanks",
 				"Win64",
 				"Debug",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -46,7 +46,7 @@
 				"ToonTanks",
 				"Win64",
 				"Debug",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -63,7 +63,7 @@
 				"ToonTanks",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -80,7 +80,7 @@
 				"ToonTanks",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -100,7 +100,7 @@
 				"ToonTanks",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -117,7 +117,7 @@
 				"ToonTanks",
 				"Win64",
 				"Development",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -134,7 +134,7 @@
 				"ToonTanks",
 				"Win64",
 				"Development",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -154,7 +154,7 @@
 				"ToonTanks",
 				"Win64",
 				"Development",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -171,7 +171,7 @@
 				"ToonTanks",
 				"Win64",
 				"Test",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -188,7 +188,7 @@
 				"ToonTanks",
 				"Win64",
 				"Test",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -208,7 +208,7 @@
 				"ToonTanks",
 				"Win64",
 				"Test",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -225,7 +225,7 @@
 				"ToonTanks",
 				"Win64",
 				"Shipping",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -242,7 +242,7 @@
 				"ToonTanks",
 				"Win64",
 				"Shipping",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -262,7 +262,7 @@
 				"ToonTanks",
 				"Win64",
 				"Shipping",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -279,7 +279,7 @@
 				"ToonTanks",
 				"Android",
 				"Debug",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -294,8 +294,8 @@
 			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
 			"args": [
 				"BuildCookRun",
-				"-ScriptsForProject=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
-				"-Project=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
+				"-ScriptsForProject=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
+				"-Project=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
 				"-noP4",
 				"-ClientConfig=Debug",
 				"-ServerConfig=Debug",
@@ -326,8 +326,8 @@
 			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
 			"args": [
 				"BuildCookRun",
-				"-ScriptsForProject=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
-				"-Project=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
+				"-ScriptsForProject=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
+				"-Project=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
 				"-noP4",
 				"-ClientConfig=Debug",
 				"-ServerConfig=Debug",
@@ -356,8 +356,8 @@
 			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
 			"args": [
 				"BuildCookRun",
-				"-ScriptsForProject=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
-				"-Project=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
+				"-ScriptsForProject=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
+				"-Project=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
 				"-noP4",
 				"-ClientConfig=Debug",
 				"-ServerConfig=Debug",
@@ -390,7 +390,7 @@
 				"ToonTanks",
 				"Android",
 				"Debug",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -410,7 +410,7 @@
 				"ToonTanks",
 				"Android",
 				"Debug",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -427,7 +427,7 @@
 				"ToonTanks",
 				"Android",
 				"DebugGame",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -442,8 +442,8 @@
 			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
 			"args": [
 				"BuildCookRun",
-				"-ScriptsForProject=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
-				"-Project=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
+				"-ScriptsForProject=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
+				"-Project=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
 				"-noP4",
 				"-ClientConfig=DebugGame",
 				"-ServerConfig=DebugGame",
@@ -474,8 +474,8 @@
 			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
 			"args": [
 				"BuildCookRun",
-				"-ScriptsForProject=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
-				"-Project=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
+				"-ScriptsForProject=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
+				"-Project=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
 				"-noP4",
 				"-ClientConfig=DebugGame",
 				"-ServerConfig=DebugGame",
@@ -504,8 +504,8 @@
 			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
 			"args": [
 				"BuildCookRun",
-				"-ScriptsForProject=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
-				"-Project=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
+				"-ScriptsForProject=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
+				"-Project=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
 				"-noP4",
 				"-ClientConfig=DebugGame",
 				"-ServerConfig=DebugGame",
@@ -538,7 +538,7 @@
 				"ToonTanks",
 				"Android",
 				"DebugGame",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -558,7 +558,7 @@
 				"ToonTanks",
 				"Android",
 				"DebugGame",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -575,7 +575,7 @@
 				"ToonTanks",
 				"Android",
 				"Development",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -590,8 +590,8 @@
 			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
 			"args": [
 				"BuildCookRun",
-				"-ScriptsForProject=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
-				"-Project=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
+				"-ScriptsForProject=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
+				"-Project=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
 				"-noP4",
 				"-ClientConfig=Development",
 				"-ServerConfig=Development",
@@ -622,8 +622,8 @@
 			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
 			"args": [
 				"BuildCookRun",
-				"-ScriptsForProject=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
-				"-Project=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
+				"-ScriptsForProject=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
+				"-Project=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
 				"-noP4",
 				"-ClientConfig=Development",
 				"-ServerConfig=Development",
@@ -652,8 +652,8 @@
 			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
 			"args": [
 				"BuildCookRun",
-				"-ScriptsForProject=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
-				"-Project=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
+				"-ScriptsForProject=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
+				"-Project=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
 				"-noP4",
 				"-ClientConfig=Development",
 				"-ServerConfig=Development",
@@ -686,7 +686,7 @@
 				"ToonTanks",
 				"Android",
 				"Development",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -706,7 +706,7 @@
 				"ToonTanks",
 				"Android",
 				"Development",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -723,7 +723,7 @@
 				"ToonTanks",
 				"Android",
 				"Test",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -738,8 +738,8 @@
 			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
 			"args": [
 				"BuildCookRun",
-				"-ScriptsForProject=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
-				"-Project=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
+				"-ScriptsForProject=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
+				"-Project=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
 				"-noP4",
 				"-ClientConfig=Test",
 				"-ServerConfig=Test",
@@ -770,8 +770,8 @@
 			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
 			"args": [
 				"BuildCookRun",
-				"-ScriptsForProject=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
-				"-Project=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
+				"-ScriptsForProject=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
+				"-Project=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
 				"-noP4",
 				"-ClientConfig=Test",
 				"-ServerConfig=Test",
@@ -800,8 +800,8 @@
 			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
 			"args": [
 				"BuildCookRun",
-				"-ScriptsForProject=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
-				"-Project=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
+				"-ScriptsForProject=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
+				"-Project=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
 				"-noP4",
 				"-ClientConfig=Test",
 				"-ServerConfig=Test",
@@ -834,7 +834,7 @@
 				"ToonTanks",
 				"Android",
 				"Test",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -854,7 +854,7 @@
 				"ToonTanks",
 				"Android",
 				"Test",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -871,7 +871,7 @@
 				"ToonTanks",
 				"Android",
 				"Shipping",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -886,8 +886,8 @@
 			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
 			"args": [
 				"BuildCookRun",
-				"-ScriptsForProject=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
-				"-Project=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
+				"-ScriptsForProject=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
+				"-Project=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
 				"-noP4",
 				"-ClientConfig=Shipping",
 				"-ServerConfig=Shipping",
@@ -918,8 +918,8 @@
 			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
 			"args": [
 				"BuildCookRun",
-				"-ScriptsForProject=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
-				"-Project=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
+				"-ScriptsForProject=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
+				"-Project=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
 				"-noP4",
 				"-ClientConfig=Shipping",
 				"-ServerConfig=Shipping",
@@ -948,8 +948,8 @@
 			"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
 			"args": [
 				"BuildCookRun",
-				"-ScriptsForProject=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
-				"-Project=C:/Users/patri/Documents/Unreal Projects/ToonTanks 5.1/ToonTanks.uproject",
+				"-ScriptsForProject=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
+				"-Project=C:/Users/patri/Desktop/Udemy Projects/Toon-Tanks/ToonTanks.uproject",
 				"-noP4",
 				"-ClientConfig=Shipping",
 				"-ServerConfig=Shipping",
@@ -982,7 +982,7 @@
 				"ToonTanks",
 				"Android",
 				"Shipping",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1002,7 +1002,7 @@
 				"ToonTanks",
 				"Android",
 				"Shipping",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1019,7 +1019,7 @@
 				"ToonTanksEditor",
 				"Win64",
 				"Debug",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1036,7 +1036,7 @@
 				"ToonTanksEditor",
 				"Win64",
 				"Debug",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1056,7 +1056,7 @@
 				"ToonTanksEditor",
 				"Win64",
 				"Debug",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1073,7 +1073,7 @@
 				"ToonTanksEditor",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1090,7 +1090,7 @@
 				"ToonTanksEditor",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1110,7 +1110,7 @@
 				"ToonTanksEditor",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1127,7 +1127,7 @@
 				"ToonTanksEditor",
 				"Win64",
 				"Development",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1144,7 +1144,7 @@
 				"ToonTanksEditor",
 				"Win64",
 				"Development",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1164,7 +1164,7 @@
 				"ToonTanksEditor",
 				"Win64",
 				"Development",
-				"C:\\Users\\patri\\Documents\\Unreal Projects\\ToonTanks 5.1\\ToonTanks.uproject",
+				"C:\\Users\\patri\\Desktop\\Udemy Projects\\Toon-Tanks\\ToonTanks.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
